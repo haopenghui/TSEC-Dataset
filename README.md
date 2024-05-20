@@ -19,9 +19,9 @@ The e-mail message must contain a description of the envisioned use of the datab
 
 
 # Terms and Conditions of Use
-##1. Privacy
+# 1. Privacy
 This dataset is made available for academic use only. If you find your vehicle or personal information in this dataset, please contact us and we will remove the corresponding information from our dataset. We are not responsible for any actual or potential harm as the result of using this dataset.
-#2. Copyright
+# 2. Copyright
 The copyright of the TSEC-dataset is reserved by the Lab of computer vision and pattern recognition, Shandong University, China. The dataset described on this page is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which implies that you must: (1) Attribute the work as specified by the original authors; (2) May not use this work for commercial purposes; (3) If you alter, transform, or build upon this work, you may distribute the resulting work only under the same license. The dataset is provided "as it is" and we are not responsible for any subsequence from using this dataset.
 
 
