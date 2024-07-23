@@ -1,6 +1,8 @@
 # TSEC-Dataset
 Traffic Scenarios Event Caption (TSEC) Dataset for training and testing video captioning methods for driving scenes
-![Examples of TSEC dataset](Examples%20of%20the%20TSEC%20dataset.png)
+<p align="center">
+  <img src="Examples%20of%20the%20TSEC%20dataset.png" alt="Examples of TSEC dataset">
+</p>
 # What is TSEC-Dataset
 General video captioning datasets are not suitable for the characteristics of driving scenes. To address this issue, we develop the Traffic Scenarios Event Caption (TSEC) Dataset to describe the key events of ego vehicle, road environment and other traffic participants. To acquire diverse types of traffic scenarios, we select the
 videos that we take with our on-board camera and other public dataset videos. We also download from BiliBili and Youtube to get the traffic accident videos. Because each video
