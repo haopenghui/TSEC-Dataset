@@ -31,9 +31,9 @@ The e-mail message must contain a description of the envisioned use of the datab
 
 #### Download 8000 origional videos of TSEC-Dataset
 
-| Dataset | Download |
+| Dataset | Download / Access Code |
 |:------------:|:-----------------:|
-| Origional videos  | [aliyun](https://huggingface.co/BBLY9413/TDS-CLIP/tree/main) / [] |
+| TSES traffic videos  | [Baidu Cloud](https://pan.baidu.com/s/1HG18MzARiL-XbaTpZ1gL8Q?pwd=tses) / tses |
 
 # Terms and Conditions of Use
 # 1. Privacy
