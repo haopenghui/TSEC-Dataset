@@ -22,12 +22,18 @@ During annotation, participants are told to imagine themselves as drivers to sim
 <p align="center">
   <img src="./dataset_ill.png" alt="traffic scenarios video caption" width="70%">
 </p>
+
 # How to get access to TSEC-dataset?
 Free copies of TSEC-dataset are provided for research and private study only. A copy of the database can be requested through e-mail sent to:
 haopenghui2022@gmail.com
 
 The e-mail message must contain a description of the envisioned use of the database and a scanned version of Agreement For TVC-dataset. Please note that the End-User named must be a legal institution, or a department or section of a named legal institution, not an individual nor a project-the person signing this Agreement has to be duly authorized by the institution for such signatures (e.g., Department or Administrative Head or similar) and shall be liable for such authorization. For academic requests, please use your university e-mail. A signature of Pof. or other regular employee of academic units (Student signature may be denied). A download link will be provided after the analysis of the request. Requests may be denied.
 
+#### Download 8000 origional videos of TSEC-Dataset
+
+| Dataset | Download |
+|:------------:|:-----------------:|
+| Origional videos  | [Log](https://huggingface.co/BBLY9413/TDS-CLIP/tree/main) / [Checkpoint](https://huggingface.co/BBLY9413/TDS-CLIP/tree/main) |
 
 # Terms and Conditions of Use
 # 1. Privacy
