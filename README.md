@@ -14,7 +14,7 @@ of these may contain many traffic events, we spilt the videos into distinct clip
 We follow the rules when processing the video clips: 1) In order to increase the diversity, different weathers, different periods, different road conditions and different vehicle conditions need to be selected. 2) Due to the complexity of traffic situations at intersections, a number of intersection scenarios are chosen. 3) The clip needs to contain the entire event. 4) Discard clips that are difficult to judge. Based on the above principles, we obtain 8,000 video clips with a total duration of 11.5 hours.
 <!-- ![traffic scenarios video caption](./video_caption.gif) -->
 <p align="center">
-  <img src="./video_caption.gif" alt="traffic scenarios video caption" width="600">
+  <img src="./video_caption.gif" alt="traffic scenarios video caption" width="389">
 </p>
 
 # Annotation
@@ -33,7 +33,7 @@ The e-mail message must contain a description of the envisioned use of the datab
 
 | Dataset | Download |
 |:------------:|:-----------------:|
-| Origional videos  | [Log](https://huggingface.co/BBLY9413/TDS-CLIP/tree/main) / [Checkpoint](https://huggingface.co/BBLY9413/TDS-CLIP/tree/main) |
+| Origional videos  | [aliyun](https://huggingface.co/BBLY9413/TDS-CLIP/tree/main) / [] |
 
 # Terms and Conditions of Use
 # 1. Privacy
